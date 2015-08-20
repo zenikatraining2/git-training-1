@@ -18,3 +18,6 @@ servlet
 Wicket
 Struts2
 JSF
+
+Applicaion lourde
+technologie swing
